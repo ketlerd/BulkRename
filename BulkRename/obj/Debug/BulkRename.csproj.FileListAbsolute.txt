@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\bin\Debug\BulkRename.exe.config
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\obj\Debug\BulkRename.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\obj\Debug\BulkRename.Form1.resources
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\obj\Debug\BulkRename.Properties.Resources.resources
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\obj\Debug\BulkRename.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\bin\Debug\BulkRename.exe
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\bin\Debug\BulkRename.pdb
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\obj\Debug\BulkRename.exe
+c:\users\david\documents\visual studio 2013\Projects\BulkRename\BulkRename\obj\Debug\BulkRename.pdb
